@@ -10,3 +10,6 @@ fstream (file stream) → for both reading and writing.
 Use ofstream to write data to a file. If the file doesn’t exist, it will be created.
 Use ifstream to read data from a file.
 Use ofstream with std::ios::app mode to append data to an existing file.
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7810243a-8075-480e-aacc-e41cfe93f791)
